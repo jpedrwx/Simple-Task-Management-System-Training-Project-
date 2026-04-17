@@ -4,7 +4,7 @@
 
 ---
 
-## 🇺🇸 English
+## English
 
 ### Description
 
