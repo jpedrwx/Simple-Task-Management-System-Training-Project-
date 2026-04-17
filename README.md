@@ -1,4 +1,4 @@
-# 📌 Simple Task Management System (Training Project)
+# Simple Task Management System (Training Project)
 
 **A simple console-based task management system built for practice, allowing users to add, list, complete, and remove tasks using basic JavaScript concepts.**
 
@@ -6,7 +6,7 @@
 
 ## 🇺🇸 English
 
-### 📖 Description
+### Description
 
 This project is a simple task management system that runs in the console. It was developed for learning and practice purposes. It allows the user to add, list, complete, and remove tasks, with a maximum limit of 100 items.
 
@@ -14,9 +14,9 @@ The code uses fundamental programming concepts such as arrays, loops (`while`), 
 
 ---
 
-## 🇧🇷 Português
+## Português
 
-### 📖 Descrição
+### Descrição
 
 Este projeto consiste em um sistema simples de gerenciamento de tarefas executado no console, desenvolvido apenas para fins de aprendizado e prática. Ele permite ao usuário adicionar, listar, concluir e remover tarefas, com um limite máximo de 100 itens.
 
@@ -24,9 +24,9 @@ O código utiliza estruturas fundamentais da programação, como arrays, laços 
 
 ---
 
-## 🇪🇸 Español
+## Español
 
-### 📖 Descripción
+### Descripción
 
 Este proyecto consiste en un sistema simple de gestión de tareas que se ejecuta en la consola, desarrollado únicamente con fines de aprendizaje y práctica. Permite al usuario agregar, listar, completar y eliminar tareas, con un límite máximo de 100 elementos.
 
